@@ -3,7 +3,7 @@
 
 - 🔭 My last developed project was [Clothes 4Crew](https://clothes-4-crew.vercel.app/)
 
-- 🌱 I’m currently learning **Typescript, Springboot and AWS**
+- 🌱 I’m currently learning **React Native, Springboot and AWS**
 
 - 💬 Ask me about **JS, React, Node or databases**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-henao-lopera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-henao-lopera/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alejandro-henao-lopera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-henao-lopera/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
